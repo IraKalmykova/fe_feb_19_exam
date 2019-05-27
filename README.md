@@ -1,5 +1,7 @@
 # Екзамен з HTML/CSS
 
+- [Preview](https://irakalmykova.github.io/fe_feb_19_exam/)
+
 Зверстайте макет сторінки зі списком [найбагатших спортсменів](https://www.figma.com/file/fs0dfZUONmT5PbHszXzM8qar/Athletes?node-id=0%3A1)
 
 Фотографії спортсменів та інформацію про них, уже структуровано в HTML-файлі.
